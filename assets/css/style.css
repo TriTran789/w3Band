@@ -348,6 +348,7 @@ html {
     text-decoration: none;
     cursor: pointer;
     border: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
